@@ -1,0 +1,10 @@
+[
+    {
+      "title": "COVID-19 Visualization",
+      "date": "2020-06",
+      "description":
+        "COVID-19 Visualization shows important metrics of the virus distribution among the US states. This project utilize Mapbox API and Deck.gl library. The data is from covidtracking.com",
+      "url": "http://localhost:8000/covid-visualization-us",
+      "thumbnailImage": "../images/projects/project-1.jpg"
+    }
+  ]

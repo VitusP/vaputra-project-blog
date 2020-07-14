@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Vitus Projects Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Vitus Putra`,
+      summary: `who lives and study in Raleigh building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: `in/vitus-putra-1b1802116/`,
     },
   },
   plugins: [
@@ -26,6 +26,22 @@ module.exports = {
         name: `assets`,
       },
     },
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/project`,
+        name: `project`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/data`,
+        name: `project`,
+      },
+    },
+    `gatsby-transformer-csv`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {

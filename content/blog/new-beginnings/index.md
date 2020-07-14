@@ -1,108 +1,56 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Focused Mind in a World of Crisis
+date: "2020-06-29T22:40:32.169Z"
+type: Blog
+description: The current never ending news that continuously let us done can take a heavy toll on our emotion. The feeling of anxiety bombards us everyday, and we ask ourselves, how do I traverse these uncertain times?
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+When I entered 2020, it seemed that life is perfect and everything is going according 
+to my plans: I have accepted an Internship in the Summer, I am taking challenging yet
+rewarding classes while still able to contribute to the organization that I cared about.
 
-## On deer horse aboard tritely yikes and much
+## Then the COVID-19 enters
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+At first, I was not concerned about this new virus epidemic, for I thought that a pandemic
+could not be possible or highly unlikely due to the distance from the ground zero of the 
+virus. Life is going well, and I treated the virus as sideline news. Then I heard the 
+news that the first case in my state is confirmed. Again, I thought to myself that there are
+few people who got infected and that I should not be worried because the government can 
+handle this. As day becomes weeks, new cases started to appear, and the government announced 
+state-wide shutdown. All of my classes became online, and I need to stay at home for the 
+the remainder of the semester.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+I thought to myself, 
+> Well, this pandemic will be over before the Summer, and everything will be back to normal
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+As the pandemic data and projection released, it becomes clear that this pandemic will not end
+before Summer. I then heard back from my recruiter that my internship offer is getting 
+rescinded. At first, it was a genuinely soul-crushing moment, for I have waited for the 
+experience since the fall of last year. I was not alone; however, for a lot of my
+friend's internships and study abroad are all affected in some ways. The companies
+who can onboard their interns online are moving to the remote internship, and those
+whose businesses affected severely by the pandemic laid-off employees and canceled the internship
+program for hopeful students. 
 
-### Overlaid the jeepers uselessly much excluding
+As the neverending news keeps pouring into my mind and thought, I started to doubt my
+ability and compares myself to others. I feel that I made the wrong choice for accepting 
+the internship from this company and for not applying to companies who are well prepared
+for this circumstance. I started blaming myself about these circumstances as if I have a full 
+control of everything.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+## Taking control of my thought and action
+It is easy to get lost in these uncertain times, but I learned that I would not grow with this
+kind of defeated mindset. 
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+> Gratefulness is the start of a meaningful life
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+Sometimes I did not get what I wanted, but it does not mean that I am not enough. When I look
+back on my life, I realized that I had received numerous opportunities and gifts that help me to
+be where I am now. From loving family, scholarships, and a chance to study and live in the US, all
+of these are precious things that I have received, and for that, I am grateful for it.
 
-### According a funnily until pre-set or arrogant well cheerful
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
-
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
